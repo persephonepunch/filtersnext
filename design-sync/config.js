@@ -1,5 +1,5 @@
 module.exports = {
-  site: `https://styles-675452.webflow.io/`,
+  site: `https://cmsslider-27473d.webflow.io/`,
   pages: [],
   clientRouting: true,
   optimizeImages: true,
